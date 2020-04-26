@@ -1,6 +1,6 @@
 # Docute v4.x
 
-## 1 Docute 介绍
+## Docute介绍
 
 [Docute](https://docute.org/) 本质上就是一个 JavaScript 文件，它可以获取 Markdown 文件并将它们呈现为单页面应用。
 
@@ -8,7 +8,7 @@
 
 目前 Docute 已经更新到第 4 版啦，而且很不错，如果想更加深入的使用它，可以直接去看 [Docute 4](https://docute.org/)。
 
-## 2 创建文件
+## 创建文件
 
 在本地新建一个文件夹，比如： demo-v4-demo/docs 新建文件
 
@@ -64,9 +64,9 @@
 
 ![image-20200426110043486](https://gitee.com/wugenqiang/PictureBed/raw/master/CS-Notes/20200426110051.png)
 
-## 3 自定义定制
+## 自定义定制
 
-### 3.1 导航栏
+### 导航栏
 
 导航栏用于网站级别的导航。它通常包含一个指向您的主页的链接和一个指向您项目的存储库的链接。但是，您可以在此处添加任何内容。
 
@@ -108,7 +108,7 @@ new Docute({
 
 ![image-20200426110656727](https://gitee.com/wugenqiang/PictureBed/raw/master/CS-Notes/20200426110658.png)
 
-### 3.2 侧边栏
+### 侧边栏
 
 侧边栏主要用于页面之间的导航。
 
@@ -142,3 +142,26 @@ new Docute({
 
 ![image-20200426111200518](https://gitee.com/wugenqiang/PictureBed/raw/master/CS-Notes/20200426111201.png)
 
+### 布局
+
+看官网有三种选择，我觉得这种好：
+
+```html
+new Docute({
+  layout: 'narrow'
+})
+```
+
+
+
+
+
+## 功能优化
+
+如果以后有机会的话，会继续更新，目前依旧坚持着 docute 3 版本哈哈
+
+## 效果展示
+
+* [docute-v4-demo](https://wugenqiang.github.io/docute-demo/docute-v4-demo/docs/#/)
+
+![image-20200426114305587](https://gitee.com/wugenqiang/PictureBed/raw/master/CS-Notes/20200426114306.png)
