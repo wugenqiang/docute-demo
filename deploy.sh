@@ -2,7 +2,7 @@ echo '--------upload files start--------'
 # 进入生成的构建文件夹
 # cd ./
 
-git init
+# git init
 
 git add .
 
