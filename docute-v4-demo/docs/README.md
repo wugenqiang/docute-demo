@@ -158,7 +158,7 @@ new Docute({
 
 ## 功能优化
 
-如果以后有机会的话，会继续更新，目前依旧坚持着 docute 3 版本哈哈
+如果以后有机会的话，会继续更新，目前依旧坚持着 [docute 3](https://wugenqiang.github.io/docute-demo/docute-v3-demo/docs/#/) 版本哈哈
 
 ## 效果展示
 
