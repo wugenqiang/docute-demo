@@ -1,5 +1,5 @@
-# docute-v3.x-demo
-基于 docute 3 版本实现的文档网站 demo，fork 即能使用，改改参数丰富代码即可
+# docute-v4.x-demo
+基于 docute 4 版本实现的文档网站 demo，fork 即能使用，改改参数丰富代码即可
 
 本地 Docute 服务开启
 

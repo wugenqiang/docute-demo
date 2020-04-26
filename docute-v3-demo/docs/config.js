@@ -12,11 +12,11 @@ docute.init({
     debug: true,
 
     // slug for your github repo
-    repo: 'wugenqiang/docute-demo',
+    repo: 'wugenqiang/docute-demo/tree/master/docute-v3-demo',
     // twitter username
     twitter: 'enjoytoshare',
     // the link to source file of current page
-    'edit-link': 'https://github.com/wugenqiang/docute-demo/blob/master/docs/',
+    'edit-link': 'https://github.com/wugenqiang/docute-demo/blob/master/docute-v3-demo/docs/',
 
     //自定义侧边栏目录
     //toc: './toc.md',
